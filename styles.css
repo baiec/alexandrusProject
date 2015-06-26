@@ -1,0 +1,20 @@
+body {
+	background-color:#FEA0BE;
+}
+
+img {
+	width:15%;
+}
+
+img:hover {
+	width:20%;
+}
+
+h3 {
+
+}
+
+#logo {
+	text-align:none;
+	width:100%;
+}
