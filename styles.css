@@ -6,7 +6,7 @@ img {
 	width:15%;
 }
 
-img:hover {
+img.main:hover {
 	width:20%;
 }
 
